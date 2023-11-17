@@ -1,0 +1,15 @@
+[17-Jul-2023 17:29:20 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/termina1/public_html/asmee/dbengine/dbconnect.php on line 2
+[17-Jul-2023 17:29:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/termina1/public_html/asmee/booking/request.php on line 28
+[17-Jul-2023 17:29:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/termina1/public_html/asmee/booking/request.php on line 38
+[17-Jul-2023 20:27:50 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'termina1_asmee'@'localhost' (using password: YES) in /home/termina1/public_html/asmee/dbengine/dbconnect.php on line 2
+[17-Jul-2023 20:27:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/termina1/public_html/asmee/booking/request.php on line 28
+[17-Jul-2023 20:27:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/termina1/public_html/asmee/booking/request.php on line 38
+[23-Jul-2023 08:40:23 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'termina1_asmee'@'localhost' (using password: YES) in /home/termina1/public_html/asmee/dbengine/dbconnect.php on line 2
+[23-Jul-2023 08:40:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/termina1/public_html/asmee/booking/request.php on line 28
+[23-Jul-2023 08:40:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/termina1/public_html/asmee/booking/request.php on line 38
+[23-Jul-2023 08:41:48 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'termina1_asmee'@'localhost' (using password: YES) in /home/termina1/public_html/asmee/dbengine/dbconnect.php on line 2
+[23-Jul-2023 08:41:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/termina1/public_html/asmee/booking/request.php on line 28
+[23-Jul-2023 08:41:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/termina1/public_html/asmee/booking/request.php on line 38
+[26-Jul-2023 02:40:17 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'termina1_asmee'@'localhost' (using password: YES) in /home/termina1/public_html/asmee/dbengine/dbconnect.php on line 2
+[26-Jul-2023 02:40:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/termina1/public_html/asmee/booking/request.php on line 28
+[26-Jul-2023 02:40:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/termina1/public_html/asmee/booking/request.php on line 38
